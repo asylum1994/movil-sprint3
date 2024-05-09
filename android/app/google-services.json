@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "979146667463",
+    "project_id": "pasanaku-cc88b",
+    "storage_bucket": "pasanaku-cc88b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979146667463:android:37dca035c976e1a01895e2",
+        "android_client_info": {
+          "package_name": "com.example.app_pasanaku"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFHYKcgDJMymGuTmrgMypqGYCPgd_GfA4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
